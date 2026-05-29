@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBot_POE_2", "ChatBot_POE_2\ChatBot_POE_2.csproj", "{52076A5E-6F5B-4869-AB0E-C0F034C276A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52076A5E-6F5B-4869-AB0E-C0F034C276A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52076A5E-6F5B-4869-AB0E-C0F034C276A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52076A5E-6F5B-4869-AB0E-C0F034C276A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52076A5E-6F5B-4869-AB0E-C0F034C276A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AC8EE5E-CD96-437C-93AF-74D360AB66D4}
+	EndGlobalSection
+EndGlobal
